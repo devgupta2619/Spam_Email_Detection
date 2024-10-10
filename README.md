@@ -4,7 +4,7 @@
 The Email Spam Detection project leverages machine learning and Natural Language Processing (NLP) to accurately classify incoming emails as either spam or non-spam. The project enhances email filtering systems by employing text classification algorithms and data preprocessing techniques, ensuring effective detection of unsolicited emails.
 
 ### Dataset
-The project utilizes the **[SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code)** from Kaggle, which contains labeled data to train and evaluate the spam detection model.
+The project utilizes the **[SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)** from Kaggle, which contains labeled data to train and evaluate the spam detection model.
 
 ## 🛠️ Required Packages
 To run the project, ensure the following Python packages are installed:
